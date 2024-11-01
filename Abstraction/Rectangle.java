@@ -1,6 +1,6 @@
 package Abstraction;
 
-class Rectangle extends Shape {
+class Rectangle extends Shape  {
     private double length;
     private double width;
 
@@ -11,6 +11,11 @@ class Rectangle extends Shape {
 
     @Override
     public double calculateArea() {
-        return length * width;
+        return 0;
     }
+
+//    @Override
+//    public double calculateArea() {
+//        return length * width;
+//    }
 }

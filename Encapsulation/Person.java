@@ -1,7 +1,7 @@
 package Encapsulation;
 
 class Person {
-    private int age;  // Đóng gói thuộc tính age
+    public int age;
 
     public Person(int age) {
         setAge(age);
@@ -17,5 +17,9 @@ class Person {
         } else {
             System.out.println("Tuổi không hợp lệ!");
         }
+    }
+
+    public void displayInfo() {
+        System.out.println("Tuổi: " + this.age);
     }
 }
