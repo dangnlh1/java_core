@@ -53,5 +53,6 @@ public class StudentMap {
         studentScores.forEach((name, score) ->
                 System.out.println("Tên: " + name + ", Điểm: " + score)
         );
+        // Add new line
     }
 }
