@@ -5,23 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="639b4f4c-bcdd-4f78-89ef-37164eeae090" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/ArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inteface/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Map/StudentMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Abstraction/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Abstraction/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encapsulation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Encapsulation/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Encapsulation/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Encapsulation/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inteface/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Inteface/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inteface/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Inteface/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inteface/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Inteface/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_core/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_core/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_core/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_core/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_core/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_core/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_core/Abstraction/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_core/Abstraction/Rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_core/Inteface/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_core/Inteface/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/ArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_core/Array/ArrayTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_core/Array/ArrayTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,23 +44,27 @@
     "Application.ArrayTest.executor": "Run",
     "Application.Encapsulation.Main.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.StudentMap.executor": "Run",
     "Application.main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "map-branch",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/java_core",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ArrayTest">
+  <component name="RunManager" selected="Application.StudentMap">
     <configuration name="Abstraction.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Abstraction.Main" />
       <module name="java_core" />
@@ -126,22 +117,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main" />
+    <configuration name="StudentMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Map.StudentMap" />
       <module name="java_core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StudentMap" />
         <item itemvalue="Application.ArrayTest" />
         <item itemvalue="Application.Encapsulation.Main" />
         <item itemvalue="Application.Abstraction.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -151,7 +155,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730186713745</updated>
+      <workItem from="1730419467831" duration="444000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>

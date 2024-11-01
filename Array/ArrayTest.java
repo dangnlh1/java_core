@@ -6,6 +6,6 @@ import java.util.List;
 
 public class ArrayTest {
 
-List<Object> abc = new ArrayList<>();
-    abc.a
+List<Object> abcd = new ArrayList<>();
+
 }
