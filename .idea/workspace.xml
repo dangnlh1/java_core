@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="639b4f4c-bcdd-4f78-89ef-37164eeae090" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Map/StudentMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/ArrayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java_core/Array/ArrayTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_core/Array/ArrayTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Map/StudentMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/Map/StudentMap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +47,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "map-branch",
+    "git-widget-placeholder": "map-branch-two",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/java_core",
     "node.js.detected.package.eslint": "true",
