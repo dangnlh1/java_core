@@ -15,9 +15,9 @@ public class StudentMap {
 
 
         System.out.println("Danh sách sinh viên và điểm của họ:");
-        for (Map.Entry<String, Integer> entry : studentScores.entrySet()) {
-            System.out.println("Tên: " + entry.getKey() + ", Điểm: " + entry.getValue());
-        }
+        studentScores.forEach((name, score) ->
+                System.out.println("Tên: " + name + ", Điểm: " + score)
+        );
 
 
         String student = "Binh";
